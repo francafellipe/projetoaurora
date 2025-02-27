@@ -1,8 +1,5 @@
-# projetoaurora
+# Projetoaurora
 
-markdown
-Encapsular
-Copiar
 #  - Aurora Simulation
 
 Bem-vindo ao repositório oficial da simulação da partícula Aurora, parte do projeto do **Institute for Interdimensional Studies**. Aqui simulamos a interação da Aurora com um buraco negro de Kerr, analisando mudanças na radiação Hawking para testar travessias interdimensionais.
